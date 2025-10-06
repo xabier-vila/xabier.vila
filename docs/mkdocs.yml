@@ -1,0 +1,14 @@
+site_name: Mi Página Personal
+site_author: XabierVila
+site_url: https://xabier.vila.github.io
+
+theme:
+  name:  readthedocs 
+
+nav:
+  - Inicio: index.md
+  - Sobre Mí: sobre-mi.md
+  - Proyectos: proyectos.md
+  - Contacto: contacto.md
+
+repo_url: https://github.com/xabier.vila/xabier.vila.github.io
